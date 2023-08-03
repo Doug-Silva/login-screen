@@ -9,7 +9,7 @@
   <p>Tela de login, utilizando HTML e CSS</p>
 
   <div>
-    <a href="https://github.com/Doug-Silva/login-screen/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/react" 
+    <a href="https://github.com/Doug-Silva/login-screen/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green" 
     alt="License MIT"></a>
   </div><br>
 
